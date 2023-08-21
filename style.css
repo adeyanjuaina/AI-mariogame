@@ -1,0 +1,39 @@
+.heading{
+    width: 100%;
+
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+
+}
+
+.big_mario{
+    width: 100%;
+}
+h4{
+    background-color: blue;
+    color: lavender;
+    line-height: 2;
+    margin: 0px;
+}
+
+#start{
+    font-size: 100px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instructions_image{
+    display: inline-block;
+    width: 45%;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover ;
+    background-position: center;
+    padding: 25px;
+}
